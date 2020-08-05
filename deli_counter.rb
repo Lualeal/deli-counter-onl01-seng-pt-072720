@@ -1,6 +1,7 @@
 # Write your code here.
 
-def line
-  if line = []
-return  "The line is currently empty."
+def line(katz_deli)
+  if katz_deli = []
+    return  "The line is currently empty."
+  end 
 end
